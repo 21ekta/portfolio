@@ -11,6 +11,6 @@ html>
     <h3>Work efficiency as part of a team</h3>
     <h4>Communication effectively</h4>
     <h5>Conflict management and resolution strategies</h5>
-  <img src="abc.png"alt"vbnm'>
+  <img src="abc.jpg"alt"vbnm'>
 </body>
 </html>
